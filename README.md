@@ -16,6 +16,7 @@ In this game, two players fight each other. They play one after the other.
 • When the game starts, the board already contains one shape.
 
 • The game stops at the first error: either when a game piece cannot be placed anymore or it has been wrongly placed.
+
 ///-///-///
 
 ◦ Player 1 will be represented by “o” and “O”. Player 2 will be represented by “x” and “X”.
